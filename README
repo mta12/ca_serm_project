@@ -1,0 +1,15 @@
+admin/admin
+tobiemanga@gmail.com
+
+GITHUB
+tobiemanga@gmail.com
+mta12
+https://github.com/mta12/ca_serm_project.git
+
+echo "# ca_serm_project" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mta12/ca_serm_project.git
+git push -u origin main
